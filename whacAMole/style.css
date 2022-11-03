@@ -1,0 +1,16 @@
+.grid {
+    display: flex;
+    width: 606px;
+    height: 606px;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    border: 1px solid #000;
+}
+
+.mole {
+    background-color: #0000ff;
+}
